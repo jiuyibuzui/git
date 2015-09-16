@@ -2,3 +2,6 @@ git is a version control system
 git is free software
 I changed git.txt at 9.43
 I changed git.txt at branch dev1  11.21
+I changed git.txt at branch master  11.39
+
+
